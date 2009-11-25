@@ -5,7 +5,7 @@ Extends the Element native object to include the _loadSwiff_ method to load a sw
 
 ### Demo
 
-<iframe src="" style="width: 100%; height:300px"></iframe>
+<iframe src="http://mooshell.net/rpflo/jNfYY/embedded/?tabs=result,js,html,css" style="width: 100%; height:400px"></iframe>
 
 Element Method: loadSwiff {#Element:loadSwiff}
 ----------------------------------
